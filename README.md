@@ -48,7 +48,8 @@ Ensure you have the following installed:
 3. Compile and run the project.  
 
 ## 📸 Screenshots  
-(Add relevant screenshots of the UI here)  
+
+
 
 ## 👨‍💻 Contributors  
 - **[Revanth Sharma M](https://github.com/RevanthSharmaM)**   
