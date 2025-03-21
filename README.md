@@ -47,11 +47,16 @@ Ensure you have the following installed:
 2. Configure the **JDBC driver** for MySQL in NetBeans.  
 3. Compile and run the project.  
 
-## 📸 Screenshots  
-(Add relevant screenshots of the UI here)  
+---
+## 📞 Contact +91 - 79756141011
+For any queries or suggestions, reach out to:  
+📧 **Email**: manjupatat80@gmail.com  
+🐙**[Revanth Sharma M](https://github.com/RevanthSharmaM)** 
+---
 
 ## 👨‍💻 Contributors  
 - **[Revanth Sharma M](https://github.com/RevanthSharmaM)**  
+---
 
 ## 📜 License  
-This project is licensed under the **MIT License**.  
+This project is for educational and research purposes.
