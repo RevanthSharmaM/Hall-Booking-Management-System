@@ -51,7 +51,8 @@ Ensure you have the following installed:
 (Add relevant screenshots of the UI here)  
 
 ## 👨‍💻 Contributors  
-- **[Revanth Sharma M](https://github.com/RevanthSharmaM)**  
+- **[Revanth Sharma M](https://github.com/RevanthSharmaM)**   
+- **[Manjunath LP](https://github.com/Manjupatat)**  
 
 ## 📜 License  
 This project is licensed under the **MIT License**.  
